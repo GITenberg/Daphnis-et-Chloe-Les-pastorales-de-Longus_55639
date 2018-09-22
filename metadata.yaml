@@ -1,0 +1,40 @@
+_repo: Daphnis-et-Chloe-Les-pastorales-de-Longus_55639
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Jannet, Pierre
+    birthdate: 1820
+    deathdate: 1870
+    gutenberg_agent_id: '37398'
+    url: http://www.gutenberg.org/2009/agents/37398
+  translators:
+  - agent_name: Amyot, Jacques
+    gutenberg_agent_id: '48431'
+    url: http://www.gutenberg.org/2009/agents/48431
+  - agent_name: Courier, Paul-Louis
+    gutenberg_agent_id: '48432'
+    url: http://www.gutenberg.org/2009/agents/48432
+creator:
+  author:
+    agent_name: Longus
+    aliases:
+    - Longos
+    - Λόγγος
+    gutenberg_agent_id: '38790'
+    url: http://www.gutenberg.org/2009/agents/38790
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2017-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55639'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Daphnis et Chloé
+
+  Les pastorales de Longus'
+url: http://www.gutenberg.org/ebooks/55639
