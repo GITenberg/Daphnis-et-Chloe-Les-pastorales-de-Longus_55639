@@ -14,6 +14,9 @@ contributor:
   - agent_name: Courier, Paul-Louis
     gutenberg_agent_id: '48432'
     url: http://www.gutenberg.org/2009/agents/48432
+covers:
+- cover_type: archival
+  image_path: 55639-h/images/cover.jpg
 creator:
   author:
     agent_name: Longus
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '38790'
     url: http://www.gutenberg.org/2009/agents/38790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55639#Daphnis-et-Chloe-Les-pastorales-de-Longus
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2017-09-27'
 gutenberg_type: Text
